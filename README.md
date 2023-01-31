@@ -11,10 +11,10 @@
 
 </br>
 
-![cruzspedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cruzspedro&show_icons=true&theme=tokyonight)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cruzspedro&show_icons=true&theme=transparent&cache_seconds=86400)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzspedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzspedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Sobre mim 😊
 
